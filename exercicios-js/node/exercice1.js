@@ -9,7 +9,7 @@ function find_max(nums)
       // (Fill in the missing line here)
      // num = max_num
      // max_num += 1
-      max_num = num
+      //max_num = num
       //max_num += num
       console.log(max_num)
     }
